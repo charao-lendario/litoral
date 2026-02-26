@@ -1,0 +1,3334 @@
+{
+  "company": "Litoral Imóveis",
+  "years": {
+    "2026": {
+      "year": 2026,
+      "metaAnual": 3600000,
+      "months": [
+        {
+          "month": "Janeiro",
+          "monthIndex": 1,
+          "meta": 480000,
+          "totalSold": 156250,
+          "percentAchieved": 0.3255208333,
+          "difference": -323750,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 18500.0,
+              "percentAchieved": 0.4625,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 40000.0,
+              "percentAchieved": 1,
+              "bonusCorretor": 1200,
+              "bonusGerente": 480
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 52500.0,
+              "percentAchieved": 1.3125,
+              "bonusCorretor": 1575,
+              "bonusGerente": 630
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 12750.0,
+              "percentAchieved": 0.31875,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 7000.0,
+              "percentAchieved": 0.175,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 7000.0,
+              "percentAchieved": 0.175,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 80000,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 120000,
+              "sold": 18500.0,
+              "percentAchieved": 0.1541666667,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Fevereiro",
+          "monthIndex": 2,
+          "meta": 480000,
+          "totalSold": 118150,
+          "percentAchieved": 0.2461458333,
+          "difference": -361850,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 16000.0,
+              "percentAchieved": 0.4,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 24400.0,
+              "percentAchieved": 0.61,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 3650.0,
+              "percentAchieved": 0.09125,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 15500.0,
+              "percentAchieved": 0.3875,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 46850.0,
+              "percentAchieved": 1.17125,
+              "bonusCorretor": 1405.5,
+              "bonusGerente": 562.2
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 80000,
+              "sold": 11750.0,
+              "percentAchieved": 0.146875,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 120000,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Março",
+          "monthIndex": 3,
+          "meta": 480000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -480000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 80000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 120000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Abril",
+          "monthIndex": 4,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Maio",
+          "monthIndex": 5,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Junho",
+          "monthIndex": 6,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Julho",
+          "monthIndex": 7,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Agosto",
+          "monthIndex": 8,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Setembro",
+          "monthIndex": 9,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Outubro",
+          "monthIndex": 10,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Novembro",
+          "monthIndex": 11,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Dezembro",
+          "monthIndex": 12,
+          "meta": 240000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -240000,
+          "brokerSales": [
+            {
+              "broker": "Peruchi",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego Simão",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Mauricio",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe Peres",
+              "level": "Marinheiro",
+              "meta": 20000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Navegador",
+              "meta": 40000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Márcio",
+              "level": "Comandante",
+              "meta": 60000,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Pedro Henrique",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Laura",
+              "level": "Acessor",
+              "meta": 0,
+              "sold": 0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        }
+      ],
+      "resumo": {
+        "totalSold": 274400,
+        "totalMeta": 3600000
+      }
+    },
+    "2025": {
+      "year": 2025,
+      "metaAnual": 7200000,
+      "months": [
+        {
+          "month": "Janeiro",
+          "monthIndex": 1,
+          "meta": 1000000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -1000000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 200000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "?",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Fevereiro",
+          "monthIndex": 2,
+          "meta": 1000000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -1000000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 200000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 87500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 37500.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Março",
+          "monthIndex": 3,
+          "meta": 700000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -700000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 140000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 70000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 70000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 70000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 61250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 61250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 61250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 61250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 26250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 26250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 26250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 26250.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Abril",
+          "monthIndex": 4,
+          "meta": 500000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -500000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Maio",
+          "monthIndex": 5,
+          "meta": 500000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -500000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Junho",
+          "monthIndex": 6,
+          "meta": 500000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -500000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Julho",
+          "monthIndex": 7,
+          "meta": 500000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -500000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Agosto",
+          "monthIndex": 8,
+          "meta": 500000,
+          "totalSold": 0,
+          "percentAchieved": 0,
+          "difference": -500000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Setembro",
+          "monthIndex": 9,
+          "meta": 500000,
+          "totalSold": 100000,
+          "percentAchieved": 0.2,
+          "difference": -400000,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 3",
+              "meta": 100000.0,
+              "sold": 100000.0,
+              "percentAchieved": 1,
+              "bonusCorretor": 6000,
+              "bonusGerente": 2400
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Outubro",
+          "monthIndex": 10,
+          "meta": 500000,
+          "totalSold": 122362.99,
+          "percentAchieved": 0.24472598,
+          "difference": -377637.01,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 45000.0,
+              "percentAchieved": 0.45,
+              "bonusCorretor": 900,
+              "bonusGerente": 360
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 12000.0,
+              "percentAchieved": 0.24,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deivid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 15000.0,
+              "percentAchieved": 0.3428571429,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 26362.99,
+              "percentAchieved": 0.6025826286,
+              "bonusCorretor": 263.6299,
+              "bonusGerente": 105.45196
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 24000.0,
+              "percentAchieved": 1.28,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Carlos",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Novembro",
+          "monthIndex": 11,
+          "meta": 500000,
+          "totalSold": 100993,
+          "percentAchieved": 0.201986,
+          "difference": -399007,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 49500.0,
+              "percentAchieved": 0.495,
+              "bonusCorretor": 990,
+              "bonusGerente": 396
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 16000.0,
+              "percentAchieved": 0.3657142857,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 7693.0,
+              "percentAchieved": 0.17584,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 14000.0,
+              "percentAchieved": 0.32,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 13800.0,
+              "percentAchieved": 0.736,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        },
+        {
+          "month": "Dezembro",
+          "monthIndex": 12,
+          "meta": 500000,
+          "totalSold": 138940,
+          "percentAchieved": 0.27788,
+          "difference": -361060,
+          "brokerSales": [
+            {
+              "broker": "Marcio",
+              "level": "Nível 1",
+              "meta": 100000.0,
+              "sold": 26440.0,
+              "percentAchieved": 0.2644,
+              "bonusCorretor": 264.4,
+              "bonusGerente": 105.76
+            },
+            {
+              "broker": "Diego",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 50000.0,
+              "percentAchieved": 1,
+              "bonusCorretor": 1000,
+              "bonusGerente": 400
+            },
+            {
+              "broker": "Fabiano",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gabriel",
+              "level": "Nível 1",
+              "meta": 50000.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deidid Borges",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 43750.0,
+              "percentAchieved": 1,
+              "bonusCorretor": 875,
+              "bonusGerente": 350
+            },
+            {
+              "broker": "Fernanda",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Kariana",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Peruchi",
+              "level": "Nível 1",
+              "meta": 43750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Filipe",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Deividi Oliveira",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Gustavo",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 0.0,
+              "percentAchieved": 0,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            },
+            {
+              "broker": "Thiago",
+              "level": "Nível 1",
+              "meta": 18750.0,
+              "sold": 18750.0,
+              "percentAchieved": 1,
+              "bonusCorretor": 0,
+              "bonusGerente": 0
+            }
+          ]
+        }
+      ],
+      "resumo": {
+        "totalSold": 462295.99,
+        "totalMeta": 7200000
+      },
+      "vendorTotals": [
+        {
+          "name": "Marcio",
+          "total": 220940
+        },
+        {
+          "name": "Diego",
+          "total": 50000
+        },
+        {
+          "name": "Fabiano",
+          "total": 12000
+        },
+        {
+          "name": "Gabriel",
+          "total": 0
+        },
+        {
+          "name": "Deidid Borges",
+          "total": 59750
+        },
+        {
+          "name": "Fernanda",
+          "total": 0
+        },
+        {
+          "name": "Kariana",
+          "total": 22693
+        },
+        {
+          "name": "Peruchi",
+          "total": 40362.99
+        },
+        {
+          "name": "Filipe",
+          "total": 0
+        },
+        {
+          "name": "Deividi Oliveira",
+          "total": 37800
+        },
+        {
+          "name": "Gustavo",
+          "total": 0
+        },
+        {
+          "name": "Thiago",
+          "total": 18750
+        }
+      ]
+    }
+  },
+  "brokers": [
+    {
+      "name": "Peruchi",
+      "filial": "Passos Torres",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Diego Simão",
+      "filial": "Gaivota",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Fernanda",
+      "filial": "Gaivota",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Mauricio",
+      "filial": "Gaivota",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Deivid Borges",
+      "filial": "Gaivota",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Deividi Oliveira",
+      "filial": "Passos Torres",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Filipe Peres",
+      "filial": "passos Torres",
+      "level": "Marinheiro",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Carlos",
+      "filial": "Gaivota",
+      "level": "Acessor",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Kariana",
+      "filial": "Gaivota",
+      "level": "Navegador",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Márcio",
+      "filial": "Gaivota",
+      "level": "Comandante",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Pedro Henrique",
+      "filial": "passos Torres",
+      "level": "Acessor",
+      "active": true,
+      "year": 2026
+    },
+    {
+      "name": "Laura",
+      "filial": "Gaivota",
+      "level": "Acessor",
+      "active": true,
+      "year": 2026
+    }
+  ],
+  "levels": [
+    {
+      "name": "Marinheiro",
+      "bonusCorretor": 0.03,
+      "metaPeriodo1": 40000.0,
+      "metaPeriodo2": 20000.0,
+      "bonusGerencia": 0.012
+    },
+    {
+      "name": "Navegador",
+      "bonusCorretor": 0.04,
+      "metaPeriodo1": 80000.0,
+      "metaPeriodo2": 40000.0,
+      "bonusGerencia": 0.016
+    },
+    {
+      "name": "Comandante",
+      "bonusCorretor": 0.05,
+      "metaPeriodo1": 120000.0,
+      "metaPeriodo2": 60000.0,
+      "bonusGerencia": 0.02
+    },
+    {
+      "name": "Almirante",
+      "bonusCorretor": 0.06,
+      "metaPeriodo1": 200000.0,
+      "metaPeriodo2": 100000.0,
+      "bonusGerencia": 0.024
+    }
+  ],
+  "sales": [
+    {
+      "broker": "Peruchi",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 18500.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Diego Simão",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 40000.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 1200,
+      "bonusGerente": 480
+    },
+    {
+      "broker": "Fernanda",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 52500.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 1575,
+      "bonusGerente": 630
+    },
+    {
+      "broker": "Deivid Borges",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 12750.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Deividi Oliveira",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 7000.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Filipe Peres",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 7000.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Márcio",
+      "year": 2026,
+      "month": "Janeiro",
+      "monthIndex": 1,
+      "sold": 18500.0,
+      "meta": 120000,
+      "level": "Comandante",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Peruchi",
+      "year": 2026,
+      "month": "Fevereiro",
+      "monthIndex": 2,
+      "sold": 16000.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Diego Simão",
+      "year": 2026,
+      "month": "Fevereiro",
+      "monthIndex": 2,
+      "sold": 24400.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Fernanda",
+      "year": 2026,
+      "month": "Fevereiro",
+      "monthIndex": 2,
+      "sold": 3650.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Mauricio",
+      "year": 2026,
+      "month": "Fevereiro",
+      "monthIndex": 2,
+      "sold": 15500.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Deivid Borges",
+      "year": 2026,
+      "month": "Fevereiro",
+      "monthIndex": 2,
+      "sold": 46850.0,
+      "meta": 40000,
+      "level": "Marinheiro",
+      "bonusCorretor": 1405.5,
+      "bonusGerente": 562.2
+    },
+    {
+      "broker": "Kariana",
+      "year": 2026,
+      "month": "Fevereiro",
+      "monthIndex": 2,
+      "sold": 11750.0,
+      "meta": 80000,
+      "level": "Navegador",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Marcio",
+      "year": 2025,
+      "month": "Setembro",
+      "monthIndex": 9,
+      "sold": 100000.0,
+      "meta": 100000.0,
+      "level": "Nível 3",
+      "bonusCorretor": 6000,
+      "bonusGerente": 2400
+    },
+    {
+      "broker": "Marcio",
+      "year": 2025,
+      "month": "Outubro",
+      "monthIndex": 10,
+      "sold": 45000.0,
+      "meta": 100000.0,
+      "level": "Nível 1",
+      "bonusCorretor": 900,
+      "bonusGerente": 360
+    },
+    {
+      "broker": "Fabiano",
+      "year": 2025,
+      "month": "Outubro",
+      "monthIndex": 10,
+      "sold": 12000.0,
+      "meta": 50000.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Kariana",
+      "year": 2025,
+      "month": "Outubro",
+      "monthIndex": 10,
+      "sold": 15000.0,
+      "meta": 43750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Peruchi",
+      "year": 2025,
+      "month": "Outubro",
+      "monthIndex": 10,
+      "sold": 26362.99,
+      "meta": 43750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 263.6299,
+      "bonusGerente": 105.45196
+    },
+    {
+      "broker": "Deividi Oliveira",
+      "year": 2025,
+      "month": "Outubro",
+      "monthIndex": 10,
+      "sold": 24000.0,
+      "meta": 18750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Marcio",
+      "year": 2025,
+      "month": "Novembro",
+      "monthIndex": 11,
+      "sold": 49500.0,
+      "meta": 100000.0,
+      "level": "Nível 1",
+      "bonusCorretor": 990,
+      "bonusGerente": 396
+    },
+    {
+      "broker": "Deidid Borges",
+      "year": 2025,
+      "month": "Novembro",
+      "monthIndex": 11,
+      "sold": 16000.0,
+      "meta": 43750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Kariana",
+      "year": 2025,
+      "month": "Novembro",
+      "monthIndex": 11,
+      "sold": 7693.0,
+      "meta": 43750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Peruchi",
+      "year": 2025,
+      "month": "Novembro",
+      "monthIndex": 11,
+      "sold": 14000.0,
+      "meta": 43750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Deividi Oliveira",
+      "year": 2025,
+      "month": "Novembro",
+      "monthIndex": 11,
+      "sold": 13800.0,
+      "meta": 18750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    },
+    {
+      "broker": "Marcio",
+      "year": 2025,
+      "month": "Dezembro",
+      "monthIndex": 12,
+      "sold": 26440.0,
+      "meta": 100000.0,
+      "level": "Nível 1",
+      "bonusCorretor": 264.4,
+      "bonusGerente": 105.76
+    },
+    {
+      "broker": "Diego",
+      "year": 2025,
+      "month": "Dezembro",
+      "monthIndex": 12,
+      "sold": 50000.0,
+      "meta": 50000.0,
+      "level": "Nível 1",
+      "bonusCorretor": 1000,
+      "bonusGerente": 400
+    },
+    {
+      "broker": "Deidid Borges",
+      "year": 2025,
+      "month": "Dezembro",
+      "monthIndex": 12,
+      "sold": 43750.0,
+      "meta": 43750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 875,
+      "bonusGerente": 350
+    },
+    {
+      "broker": "Thiago",
+      "year": 2025,
+      "month": "Dezembro",
+      "monthIndex": 12,
+      "sold": 18750.0,
+      "meta": 18750.0,
+      "level": "Nível 1",
+      "bonusCorretor": 0,
+      "bonusGerente": 0
+    }
+  ],
+  "summary": {
+    "totalSalesValue": 736695.99,
+    "totalSalesCount": 28,
+    "averageTicket": 26310.57107142857,
+    "uniqueBrokers": 14,
+    "yearsAvailable": [
+      2025,
+      2026
+    ]
+  }
+}
